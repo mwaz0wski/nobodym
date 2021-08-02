@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @nobodym
-- 👀 I’m interested in software development
+- 👀 I’m currently working in software development
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nobodym/nobodym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate on full stack applications
+- 📫 How to reach me:
+  Linkedin: https://www.linkedin.com/in/miguel-albaladejo-belmonte-866951168/
+  mail: miguelalbaladejo123@gmail.com
